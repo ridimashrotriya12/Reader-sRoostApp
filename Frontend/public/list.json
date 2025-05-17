@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dollar sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/education-day-scene-fantasy-style-aesthetic_23-2151040270.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Sports",
+        "title": "adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/man-blue-suit-with-words-xd-it_1208590-37072.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+     {
+        "id": 3,
+        "name": "Science fiction",
+        "title": "amet.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/woman-wearing-helmet-goggles-stands-front-city-scene_1103290-48702.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+   
+     {
+        "id": 4,
+        "name": "Fairytale",
+        "title": " dollar .",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/3d-rendering-cute-fairy_23-2151575794.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+   
+    {
+        "id": 5,
+        "name": "Comedy",
+        "title": "Lorem, ipsum dollar sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/3d-rendering-elder-people-running_23-2150964709.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+     {
+        "id": 6,
+        "name": "Thriller",
+        "title": "consectetur .",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/high-quality-digital-image-wallpaper_783884-133285.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+   
+    {
+        "id": 7,
+        "name": "Crime Story",
+        "title": "Lorem.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/grunge-metal-background-with-bloody-splatters_1048-5868.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Adventure",
+        "title": "Lor.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/family-going-vacation-walking-national_605905-86454.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Horror",
+        "title": "em.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/mysterious-dark-house-night_845014-4156.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    }
+]

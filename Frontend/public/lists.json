@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Art and Photography",
+        "title": "Lorem, ipsum dollar sit amet consectetur adipisicing elit.",
+        "price": 13,
+        "category": "Creativity",
+        "image": "https://img.freepik.com/premium-photo/photoshoot-man-studio-photography-day-illustration-camera-holding-girl_616879-35083.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Mystery",
+        "title": "adipisicing elit.",
+        "price": 20,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/dark-fantasy-scene_23-2151136240.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Anime",
+        "title": "consectetur .",
+        "price": 14,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/walking-street-sakura-flowers-cherry-blossom-fantasy-tokyo-city-japan-anime-manga-background_704843-29.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Poetry",
+        "title": "amet.",
+        "price": 10,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/top-close-up-view-books-roses-grey-desk_140725-14272.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Drama",
+        "title": "Lorem, ipsum dollar sit amet consectetur adipisicing elit.",
+        "price": 15,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/cartoon-characters-are-sitting-theater-with-man-standing-front-them_1035781-8837.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Self-Help",
+        "title": " dollar .",
+        "price": 18,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/man-suit-is-standing-front-blue-sky-style-spatial-concept-art_921860-164815.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Suspense",
+        "title": "Lorem.",
+        "price": 20,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/dark-fantasy-scene_23-2151136129.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Musical",
+        "title": "Lor.",
+        "price": 8,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/3d-music-related-scene_23-2151124475.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Action",
+        "title": "em.",
+        "price": 14,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/two-men-space-suits-are-fighting-with-each-other-generative-ai_733139-128892.jpg?ga=GA1.1.965627106.1726573395&semt=ais_hybrid&w=740"
+    }
+]
