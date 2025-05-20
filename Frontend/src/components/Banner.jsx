@@ -8,7 +8,7 @@ function Banner() {
    <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10">
     <div className=" w-full  md:w-1/2 mt-14 md:mt-36">
     <div className="space-y-14">
-        <h1 className="text-5xl mt-10 font-bold">Hello, welcome here to learn something <span className="text-rose-600">new everyday!!!</span></h1>
+        <h1 className="text-5xl mt-12 font-bold">Hello, welcome here to learn something <span className="text-rose-600">new everyday!!!</span></h1>
     <p className="text-xl font-semibold">Every great journey begins with a single page. From fiction to philosophy, fantasy to fact—our shelves are full of wonders ready to be explored. Step into a world where every book opens a new door.  Dive into a world of stories, knowledge, and imagination—all at your fingertips. Whether you're chasing thrillers,  or exploring new ideas, there's a book here waiting just for you.</p>
     
     

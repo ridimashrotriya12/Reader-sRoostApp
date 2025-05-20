@@ -1,15 +1,40 @@
 import React from 'react'
 import { useForm } from "react-hook-form"
-import { Link } from 'react-router-dom'
+import { Link  } from 'react-router-dom'
+import axios from "axios"
+
+import { useAuth } from '../Context/AuthProvider'
 
 function Signup() {
+ 
+  
     const {
         register,
         handleSubmit,
         
         formState: { errors },
       } = useForm();
-      const onSubmit = (data) => console.log(data)
+      const onSubmit =async (data) => {
+        const userInfo = {
+          fullname: data.fullname,
+          email: data.email,
+          password: data.password
+        }
+       await axios.post("http://localhost:4001/user/signup", userInfo)
+        .then((res)=>{
+          console.log(res.data)
+          if(res.data){
+            alert("Signup successfully");
+            
+          }
+          localStorage.setItem("Users", JSON.stringify(res.data.user));
+        }).catch((err)=>{
+         if(err.response){
+           console.log(err)
+          alert("Signup error: " + err.response.data.message);
+         }
+        })
+      };
   return (
     <>
     <div className="flex h-screen items-center justify-center">
@@ -23,8 +48,8 @@ function Signup() {
      <div>
         <span className="mt-4">Name</span>
         <br/>
-        <input type="text" placeholder="Enter your fullname" className="w-80 px-4 py-1 mt-4 border border-black hover:bg-gray-950 hover:text-lg rounded text-base" {...register("name", { required: true })}/>
-     {errors.name && <span>fullname is required</span>}
+        <input type="text" placeholder="Enter your fullname" className="w-80 px-4 py-1 mt-4 border border-black hover:bg-gray-950 hover:text-lg rounded text-base" {...register("fullname", { required: true })}/>
+     {errors.fullname && <span>fullname is required</span>}
     </div>
     <br/>
     <div>
